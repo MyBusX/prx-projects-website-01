@@ -1,0 +1,4 @@
+address,estate,city,single_storey_perimeter_m,double_storey_perimeter_m,boundary_wall_perimeter_m,measurement_confidence,owner_name,owner_email,contact_source,consent_to_email
+12 Example Drive,Silver Lakes,Gauteng,74,28,82,0.91,Jane Example,jane@example.com,client_supplied,true
+18 Sample Crescent,Silver Lakes,Gauteng,64,0,76,0.84,John Sample,john@example.com,client_supplied,false
+22 Review Lane,Silver Lakes,Gauteng,12,0,20,0.72,Low Confidence Owner,owner@example.com,client_supplied,true
