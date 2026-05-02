@@ -7,7 +7,7 @@ export default function Hero() {
     <section className="hero">
       <div className="hero-copy">
         <p className="eyebrow">Pretoria and Gauteng contractor services</p>
-        <h1>Build with a contractor who can take the project from idea to handover.</h1>
+        <h1>Build with a contractor who can take the project from idea to handover with ease.</h1>
         <p>{business.positioning}</p>
         <div className="button-row">
           <a className="primary-button" href={whatsappUrl()} target="_blank" rel="noreferrer">
